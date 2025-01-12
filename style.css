@@ -47,6 +47,23 @@
     cursor: pointer;
 }
 
+.main-p{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+}
+
+.main-h{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    color: #0E0E0E;
+    margin: 24px 0;
+    
+}
+
+
                                             /* heradr section start  */
 
                                             
@@ -87,21 +104,6 @@
     height: 56px;
 }
 
-.main-p{
-    font-size: 24px;
-    font-weight: 500;
-    line-height: 29px;
-    letter-spacing: 0%;
-}
-
-.main-h{
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 67px;
-    color: #0E0E0E;
-    margin: 24px 0;
-    
-}
 
                                     /* Pillars section atart */
 
@@ -244,7 +246,7 @@
 
 
 
-
+                                /* Recent News section start  */
 
 
 
@@ -374,7 +376,7 @@ a{
 
 
 a:hover{
-    background-color:  #6aa0b0;
+    background-color:  #d35897;
     transition: 0.5s;
 }
 
@@ -401,4 +403,46 @@ a:hover{
 .placeholder{
     font-size: 19px;
     font-weight: bold;
+}
+
+
+
+                                        /* subscribe-section-start  */
+
+
+.subscribe-section{
+    background-color: #C6E4D6;
+    padding: 80px 250px;
+    text-align: center;
+    margin-bottom: 80px;
+    border-radius: 24px;
+}
+.subscribe-section p{
+    padding: 24px;
+}
+.input-container{
+    display: flex;
+    gap: 0;
+}
+.input-container input{
+    padding: 18px 40px;
+    border: none;
+}
+.email{
+    width: 70%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.subscribe{
+    color: white;
+    background-color:  #6aa0b0;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size: 20px;
+}
+.subscribe:hover{
+    background-color: rgb(164, 177, 76);
+    color: #006A50;
+    cursor: pointer;
+    outline: none;
 }
