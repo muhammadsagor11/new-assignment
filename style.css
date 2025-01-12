@@ -67,6 +67,8 @@
 }
 
 
+                                            /* navber section start  */
+
 .nav-main-container{
     display: flex;
     justify-content: first baseline;
@@ -101,3 +103,39 @@
     
 }
 
+                                    /* Pillars section atart */
+
+.pillars{
+    margin: 80px 0;
+ }
+.pillars-containar{
+    display: flex;
+    gap: 25px;
+    background: rgb(255, 255, 255);
+    margin-top: 32px;
+
+ }        
+ 
+ .pillars-card{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 24px;
+    box-shadow: 0px 0.5px 0px rgb(180, 158, 158);
+    
+ }
+
+ .heading-h3{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+ }
+
+ .main-p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px
+ }
+
+
+                                            /* Vision section start  */
