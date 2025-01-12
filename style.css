@@ -289,3 +289,116 @@
 .sub-btn{
     margin-top: 57px;
 }
+
+
+
+                                            /* Donet section start  */
+
+
+
+.Donate-section{
+    margin: 80px 0;
+}
+
+
+
+.sub-donet{
+    text-align: center;
+    gap: 20px;
+}
+
+.donet-p{
+    margin-bottom: 32px;
+    align-items: center;
+}
+
+.donat-containar{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 32px 0;
+}
+
+
+a{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    gap: 80px;
+    text-decoration: none;
+}
+
+.donat-1 {
+    width: 240px;
+    height: 128px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background:rgb(142, 137, 137);
+}
+.donat-2 {
+    width: 240px;
+    height: 128px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: #6aa0b0;
+}
+
+.donat-3 {
+    width: 240px;
+    height: 128px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(142, 137, 137);
+}
+
+.donat-4 {
+    width: 240px;
+    height: 128px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(142, 137, 137);
+}
+
+
+a:hover{
+    background-color:  #6aa0b0;
+    transition: 0.5s;
+}
+
+
+.donet-fild{
+   
+}
+
+.sub-donet-fild{
+    align-items: center;
+    text-align: center;
+    margin-left: 200px;
+    width: 65%;
+    height: 68px;
+    background: rgb(255, 255, 255);
+    outline: none;
+}
+
+
+.donet-sub-btn{
+    margin-top: 32px;
+    margin-left: 580px;
+}
+.placeholder{
+    font-size: 19px;
+    font-weight: bold;
+}
